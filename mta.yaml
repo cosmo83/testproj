@@ -8,7 +8,7 @@ modules:
    path: ui
    parameters:
       disk-quota: 512M
-      memory: 128M
+      memory: 96M
    build-parameters:
       builder: grunt
    requires:
